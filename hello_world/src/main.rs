@@ -1,4 +1,4 @@
-// to check run "cargo clippy" or "cargo clippy -- -W clippy::pedantic"
+// to check code run "cargo clippy" or even more with "cargo clippy -- -W clippy::pedantic"
 
 fn main() {
     println!("Hello, world!");
